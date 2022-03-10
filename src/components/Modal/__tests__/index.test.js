@@ -39,4 +39,4 @@ describe('click event', () => {
         // assert (expect matcher)
         expect(mockToggleModal).toHaveBeenCalledTimes(1);
     })
-})
+});
